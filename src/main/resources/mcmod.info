@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noghosts",
+  "name": "No Ghosts",
+  "description": "Adds new mobs to the game.",
+  "version": "1.0.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CaptainSwag,Beystar"],
+  "credits": "Our unwilling test subjects of the Rustlecraft server",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
